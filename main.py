@@ -939,6 +939,7 @@ for i in range(len(elements)):
     macierz_wynikowa_p += np.array(element.lista_2d_p)
     macierz_wynikowa_c += np.array(element.lista_2d_c)
 
+        #pomocnicze
         # print("macierz H w elemencie")
         # for wiersz in element.lista_2d:
         #     print(wiersz)
